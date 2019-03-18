@@ -1,6 +1,6 @@
 # Instance to test integration with parkmycloud
 template_path: managed-ec2-v4.yaml
-stack_name: pmc-test-ec2
+stack_name: JKG-SB-test-ec2
 parameters:
   # The Sage deparment for this resource
   Department: "sysbio"
